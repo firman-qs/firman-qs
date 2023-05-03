@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Lua | Poweshell | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | PHP | Xampp
-- 🔧 &nbsp; Neovim | Visual Studio code | Git
+- 💻 &nbsp; **still remembered**: Python | Lua | Poweshell | C++  
+- 🌐 &nbsp; **have forgotten a bit** HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; **almost gone** MySQL | PHP 
+- 🔧 &nbsp; i use VIM **BTW** | Visual Studio VIM bind | Git
 
 <br>
 
