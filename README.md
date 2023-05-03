@@ -4,13 +4,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python Data
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Physics, computer programming and Mathematics.
+- 🔭 &nbsp; Currently learning Python Data
+- 🎓 &nbsp; Studying Physics, computer programming and Mathematics (littttleee).
 - 💼 &nbsp; Not a developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching code.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Watching code rn.
+- ☕ &nbsp; I belive, a perfect cup of equations can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
