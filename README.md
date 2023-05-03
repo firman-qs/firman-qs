@@ -16,7 +16,6 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | PHP | Xampp
 - 🔧 &nbsp; Neovim | Visual Studio code | Git
-- 🖥 &nbsp; Figma | Photoshop | Filmora
 
 <br>
 
