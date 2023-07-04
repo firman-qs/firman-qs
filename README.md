@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently learning Python-[Manim, Data, Django]
+- 🔭 &nbsp; Currently learning Python-[Manim, Data, Django] 
 - 🎓 &nbsp; Studying Physics, computer programming and Mathematics (littttleee).
 - 💼 &nbsp; Not a developer.
 - ✍️ &nbsp; Watching code rn.
@@ -15,7 +15,7 @@
 - 💻 &nbsp; **still remembered**: Python | Lua | Poweshell | C++  
 - 🌐 &nbsp; **have forgotten a bit** HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; **almost gone** MySQL | PHP 
-- 🔧 &nbsp; i use VIM **BTW** | Visual Studio VIM bind | Git
+- 🔧 &nbsp; Working with Sway, Neovim, VSCode, Github, R-Studio
 
 <br>
 
