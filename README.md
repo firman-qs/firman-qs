@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently learning Python-[Manim, Data, Django] 
+- 🔭 &nbsp; Currently learning Python-[Manim, Data]
 - 🎓 &nbsp; Studying Physics, computer programming and Mathematics (littttleee).
 - 💼 &nbsp; Not a developer.
 - ✍️ &nbsp; Watching code rn.
